@@ -7,7 +7,7 @@ import "./App.css";
 function App() {
   // Data
   const ordersData = [
-    { id: 1, name: "Mojitos", price: "5", notes: "test note" },
+    { id: 1, name: "Mojito", price: "5", notes: "test note" },
     { id: 2, name: "Shake", price: "15", notes: "" },
     { id: 3, name: "Coffee", price: "35", notes: "" }
   ];
